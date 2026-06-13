@@ -2,10 +2,10 @@
 
 ## Dashboard Preview
 
-### Page 1 — Executive Overview
+### Page 1  Executive Overview
 ![Executive Overview](screenshots/page1_executive_overview.png)
 
-### Page 2 — Clinical Deep Dive
+### Page 2 Clinical Deep Dive
 ![Clinical Deep Dive](screenshots/page2_clinical_deep_dive.png)
 
 ---
@@ -37,7 +37,7 @@ This dashboard was built to answer all of them.
 
 ## Dashboard Structure
 
-### Page 1 — Executive Overview
+### Page 1 Executive Overview
 High-level KPI summary designed for C-suite and senior 
 leadership consumption.
 
@@ -57,7 +57,7 @@ leadership consumption.
 
 ---
 
-### Page 2 — Clinical Deep Dive
+### Page 2  Clinical Deep Dive
 Operational and clinical analysis designed for department 
 heads, clinical directors, and operations managers.
 

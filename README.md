@@ -1,15 +1,5 @@
 ##  Hospital Patient Records Dashboard
 
-## Dashboard Preview
-
-### Page 1  Executive Overview
-![Executive Overview](screenshots/page1_executive_overview.png)
-
-### Page 2 Clinical Deep Dive
-![Clinical Deep Dive](screenshots/page2_clinical_deep_dive.png)
-
----
-
 ## Overview
 An end-to-end business intelligence solution built on a 
 synthetic hospital dataset of 9,500 patient records. 
@@ -18,6 +8,14 @@ executive-level clinical, operational, and financial
 insights — enabling data-driven decision-making across 
 hospital leadership, clinical directors, and operations 
 management.
+----
+## Dashboard Preview
+
+### Page 1  Executive Overview
+![Executive Overview](screenshots/page1_executive_overview.png)
+
+### Page 2 Clinical Deep Dive
+![Clinical Deep Dive](screenshots/page2_clinical_deep_dive.png)
 
 ---
 

@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Records Dashboard
+7#  Hospital Patient Records Dashboard
 
 ## Dashboard Preview
 
